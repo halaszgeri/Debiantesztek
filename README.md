@@ -1,0 +1,2 @@
+# Debiantesztek
+Szerverek és Felhőkezelés
